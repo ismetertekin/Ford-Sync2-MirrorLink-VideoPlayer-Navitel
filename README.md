@@ -1,4 +1,5 @@
-# SYNC2-MirrorLink
+# Ford Sync2 MirrorLink + Video Player + Navitel
+
 This way we can start Mirrorlink with EasyCon once we have it installed in Ford Sync2, through the packs. Tested on Samsung S9+ Android 10 version.
 
 I also put ideas on how I can use android auto with the EasyCon application doing Mirrorlink, although it is only used to have the platform, because the app that manages the connection is still EasyCon.
